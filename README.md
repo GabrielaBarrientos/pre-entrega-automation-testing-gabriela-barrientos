@@ -53,7 +53,6 @@ Para generar un reporte HTML:
 
 Automatización de Login:
 - Caso de éxito con credenciales válidas
-- Caso de fallo con credenciales inválidas
 
 Navegación y Verificación del Catálogo: 
 - Comprobación del título de la página
@@ -62,7 +61,7 @@ Navegación y Verificación del Catálogo:
 
 Interacción con Productos:
 - Añadir producto al carrito
-- Verificar que el contador se incremente
+- Verificar que el contador se incrementa a uno
 - Navegar al carrito
 - Comprobar que el producto añadido aparezca correctamente
 
