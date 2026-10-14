@@ -41,9 +41,6 @@ Desde una terminal ubicada en la **raíz del proyecto**, ejecutar:
 2. Activarlo en **PowerShell (Windows)**: `.\.venv\Scripts\Activate.ps1`
 3. Instalar las dependencias: `python -m pip install selenium pytest`
 
-
-Si el proyecto incluye un archivo `requirements.txt`, se puede instalar desde él con `python -m pip install -r requirements.txt`.
-
 ## Cómo ejecutar las pruebas
 
 Desde la **raíz del proyecto** ejecutar el archivo de test: 
@@ -69,5 +66,3 @@ Interacción con Productos:
 - Navegar al carrito
 - Comprobar que el producto añadido aparezca correctamente
 
-Cierre de Sesión:
-- Verificar que el usuario pueda cerrar sesión correctamente
